@@ -5,7 +5,7 @@ export default function Home() {
         Meu primeiro projeto com Next.js
       </h1>
       <p className="mt-4 text-gray-500">
-        SellDash está funcionando!!!
+        SellDash está funcionando!!!!!
       </p>
     </main>
   );
